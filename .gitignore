@@ -1,0 +1,21 @@
+# Python environment
+venv/
+env/
+.env
+
+# Project specific folders
+uploads/
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Flask/Instance folders
+instance/
+.pytest_cache/
